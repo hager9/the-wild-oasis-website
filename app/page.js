@@ -4,7 +4,7 @@ import Link from "next/link";
 
 export default function Page() {
   return (
-    <main className="mt-24">
+    <main className="mt-24 ">
       <Image
         src={bg}
         fill
